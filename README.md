@@ -17,6 +17,8 @@ N - count of final clusters
 FILE - name of data file
 Methods
 
----avg Unweighted pair-group average method (default)
----min Nearest nearest neighbor method
----max Furthermost neighbor method
+--avg Unweighted pair-group average method (default)
+
+--min Nearest nearest neighbor method
+
+--max Furthermost neighbor method
