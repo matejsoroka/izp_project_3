@@ -40,7 +40,6 @@
 
 /// @struct obj_t
 struct obj_t {
-
     int id;  ///< unique ID of object
     float x; ///< x coordinate of object
     float y; ///< y coordinate of object
